@@ -1,3 +1,4 @@
 elm-stuff/
+.netlify/
 # will remove index.html eventually once a more prod-like flow is ready.
 index.html
